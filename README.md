@@ -22,9 +22,10 @@ to change the width of the FMA, edit the src/fma.v and change the parameter WIDT
 
 the output directory contains 3 directories, for 4, 8 and 16 bit versions of the FMA:
 
-* GDS
-* SVG of the 'yosys show' command
-* STLs for each layer
+* GDS       - the files we'd send to the factory for manufacture
+* SVG       - output of the 'yosys show' command, shows the standard cells
+* STL.zip   - STLs for each layer
+* report    - yosys synth report showing number of cells used and total area of all cells added together
 
 # STLs
 

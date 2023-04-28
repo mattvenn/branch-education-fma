@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Fri Apr 28 10:10:31 2023
+[*]
+[dumpfile] "/home/matt/work/asic-workshop/shuttle9/branch_edu/fma.vcd"
+[dumpfile_mtime] "Fri Apr 28 10:09:56 2023"
+[dumpfile_size] 88430
+[savefile] "/home/matt/work/asic-workshop/shuttle9/branch_edu/fma.gtkw"
+[timestart] 0
+[size] 1824 1089
+[pos] 424 150
+*-21.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 343
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 327
+@22
+fma.a[3:0]
+fma.b[3:0]
+fma.c[3:0]
+fma.out[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
